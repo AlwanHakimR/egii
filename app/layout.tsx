@@ -15,19 +15,19 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Putri Egii — UI/UX Designer Portfolio",
+  title: "Putri Egii Hapsa Andarista, S.Tr.Kom — UI/UX Designer Portfolio",
   description:
-    "Portfolio Putri Egii, seorang UI/UX Designer berprestasi dengan IPK 4.0 yang berspesialisasi dalam desain produk digital yang indah, intuitif, dan berpusat pada pengguna.",
+    "Portfolio Putri Egii Hapsa Andarista, S.Tr.Kom, seorang UI/UX Designer berprestasi dengan IPK 4.0 yang berspesialisasi dalam desain produk digital yang indah, intuitif, dan berpusat pada pengguna.",
   keywords: [
     "UI/UX Designer",
     "Portfolio",
-    "Putri Egii",
+    "Putri Egii Hapsa Andarista",
     "Desain Produk",
     "Mobile App Design",
     "Web Design",
   ],
   openGraph: {
-    title: "Putri Egii — UI/UX Designer",
+    title: "Putri Egii Hapsa Andarista, S.Tr.Kom — UI/UX Designer",
     description: "Crafting beautiful digital experiences, one pixel at a time.",
     type: "website",
   },

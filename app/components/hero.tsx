@@ -119,7 +119,7 @@ export default function HeroSection() {
           style={{ fontSize: "clamp(2.2rem,5vw,4rem)", color: "var(--text-primary)" }}
         >
           Saya{" "}
-          <span className="gradient-text">Putri Egii</span>
+          <span className="gradient-text">Putri Egii Hapsa Andarista, S.Tr.Kom</span>
           <br />
           <span style={{ color: "var(--text-primary)" }}>{displayed}</span>
           <span className="cursor-blink">|</span>
@@ -228,7 +228,7 @@ export default function HeroSection() {
           >
             <Image
               src="/avatar.jpg"
-              alt="Putri Egii — UI/UX Designer"
+              alt="Putri Egii Hapsa Andarista — UI/UX Designer"
               fill
               className="object-cover object-top"
               priority

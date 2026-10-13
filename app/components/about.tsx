@@ -72,7 +72,7 @@ export default function AboutSection() {
               style={{ color: "var(--text-primary)" }}
             >
               Halo! Saya{" "}
-              <span className="gradient-text font-bold">Putri Egii</span>,
+              <span className="gradient-text font-bold">Putri Egii Hapsa Andarista, S.Tr.Kom</span>,
               seorang UI/UX Designer berprestasi berdomisili di Jakarta dengan
               pengalaman merancang produk digital dari startup hingga enterprise.
             </p>

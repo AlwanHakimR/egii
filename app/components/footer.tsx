@@ -63,7 +63,7 @@ export default function Footer() {
           className="flex flex-col sm:flex-row justify-between items-center gap-4 pt-6 text-xs"
           style={{ borderTop: "1px solid var(--glass-border)", color: "var(--text-muted)" }}
         >
-          <p>© 2026 Putri Egii. Dibuat dengan ❤️ dan banyak ☕ — IPK 4.0 🎓</p>
+          <p>© 2026 Putri Egii Hapsa Andarista. Dibuat dengan ❤️ dan banyak ☕ — IPK 4.0 🎓</p>
           <p className="italic" style={{ color: "var(--purple-light)" }}>
             &ldquo;Great design is invisible.&rdquo;
           </p>
